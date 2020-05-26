@@ -10,8 +10,8 @@ use Mix.Config
 
 # Configure your database
 config :sneakers_23, Sneakers23.Repo,
-  username: "postgres",
-  password: "postgres",
+  username: "dylanandrews",
+  password: "",
   database: "sneakers_23_test",
   hostname: "localhost",
   pool: Ecto.Adapters.SQL.Sandbox
